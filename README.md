@@ -8,6 +8,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iarav&layout=compact&theme=radical"/>
 </div>
 <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Android" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg">
+  <img align="center" alt="Kotlin" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
